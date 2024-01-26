@@ -1,0 +1,10 @@
+Sure, here's the information you provided in a tabular format:
+
+| **Paper Name**                                               | **Author**                   | **Year** | **Problem Statement**                                                                                                 |
+|--------------------------------------------------------------|------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------|
+| Phishing Email Detection Using Robust NLP Techniques         | Egozi and Rakesh             | N/A      | Develop a phishing email detector with high accuracy in identifying phishing and legitimate emails using NLP techniques. |
+| Innovative Phishing Email Detectors                          | Srinivasana                  | N/A      | Create effective phishing email detectors with emphasis on unique attributes and features like word and stopword counts.|
+| Comprehensive Evaluation of Spam Email Classification       | W. Awad and S. Elseuof       | N/A      | Evaluate various machine learning techniques for spam email classification, highlighting less mainstream algorithms.    |
+| Classification of Phishing Email using Random Forest        | Akinyelu, Adewumi           | 2014     | Build a classification model for phishing emails using a Random Forest technique, achieving high accuracy.             |
+| Integrating NLP, ML, and Image Processing for Classification | Sarju et al.                | N/A      | Develop a methodology that combines NLP, ML, and image processing techniques for high accuracy in email classification.|
+| Feature Extraction for Distinguishing Legitimate and Phished Emails | Gilchan Park and colleagues | N/A   | Extract dependable features to differentiate between legitimate and phishing emails based on syntactic and content-based differences. |
